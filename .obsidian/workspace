@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "38a4b797a474fcdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3a90df4086ba9b0",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56d560f0151f952c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b09e4744708b5d57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c2b4c14bd3b9aaa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a49420e69c31bf8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Install",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53a32ce8e2f4f123",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f7c92969e0c85d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a078ec1365f5d77c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa17e0050c1e3180",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69fb6f9edb457892",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "854b12ca81c1ce4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cdb702baa6c55ba0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f3a90df4086ba9b0",
+  "lastOpenFiles": [
+    "Linux/Install Snap.md",
+    "Hugo/Install Hugo.md",
+    "Untitled.md"
+  ]
+}
