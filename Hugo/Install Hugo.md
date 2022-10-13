@@ -1,4 +1,5 @@
 # Install Hugo
-``` Bash
-snap install hugo
+1. Install Hugo using Snap
+``` bash
+sudo snap install hugo
 ```
