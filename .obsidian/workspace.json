@@ -4,16 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "f3a90df4086ba9b0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "To Sort.md",
-            "mode": "source",
-            "source": false
+        "id": "23359438342f7e70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3a90df4086ba9b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1074e49a86e9bab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce2638016f362286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -31,7 +62,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -128,7 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f3a90df4086ba9b0",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ce2638016f362286",
   "lastOpenFiles": [
     "adsfasdf.md",
     "Linux/Install Snap.md",
